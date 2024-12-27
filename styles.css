@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.moviePie{
+	height:10px;
+	width:10px;
+	opacity:10px;
+}
+
+.movieDetail{
+	position:center;
+	top:10px;
+	width:20px;
+	text-align:center;
+	font-size:10;
+}
+img{
+	width:600px;
+	height:600px;
+}
